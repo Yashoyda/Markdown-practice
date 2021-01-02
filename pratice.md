@@ -1,6 +1,11 @@
 # Heder 1
 ___
 
+|Name           |Item           |Price |
+|---------------|:-------------:|-----:|
+| Mike          | Tooth Brush   |    $5|
+| Ted           | Toilet Paper  |    $4|
+| John          | Bandaids      |    $1|
 ```
    alert ("Hello World")
 ```
