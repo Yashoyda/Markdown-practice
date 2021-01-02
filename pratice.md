@@ -1,14 +1,16 @@
 # Heder 1
 ___
 
+```
+   alert ("Hello World")
+```
+
 |Name           |Item           |Price |
 |---------------|:-------------:|-----:|
 | Mike          | Tooth Brush   |    $5|
 | Ted           | Toilet Paper  |    $4|
 | John          | Bandaids      |    $1|
-```
-   alert ("Hello World")
-```
+
 1. Apples
    1. Macintosh
    2. Geanny Smith
